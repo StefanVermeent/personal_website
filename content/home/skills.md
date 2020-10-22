@@ -19,18 +19,23 @@ subtitle = ""
   icon_pack = "fab"
   name = "R"
   description = "90%"
-  
-[[feature]]
+ 
+  [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "Linear (Mixed Effects) Modeling"
+  description = "80%"
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "cogs"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Cognitive Modeling"
+  description = "70%"
+
+
+
+  
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
