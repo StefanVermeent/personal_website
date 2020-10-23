@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I am currently a Junior Researcher at Philips. I conduct psychometric and neuropsychological research for IntelliSpace Cognition, a digital cognitive test battery aiming to standardize and automate the detection of cognitive impairment.
+I am currently a Junior Researcher at Philips. I conduct psychometric and neuropsychological research for IntelliSpace Cognition, a digital cognitive test battery aiming to standardize and automate the clinical workflow.
 
 On 1st January 2021 I will be starting as a PhD Candidate at Utrecht University in The Netherlands. My research will focus on cognitive adaptations in harsh and unpredictable environments. More specifically, I will investigate how people encode aspects of their environment and how this shapes and activates relevant cognitive skills.
