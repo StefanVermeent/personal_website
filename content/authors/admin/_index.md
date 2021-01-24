@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Junior Researcher
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Philips
-  url: "https://www.usa.philips.com/healthcare/solutions/neurology/digital-cognitive-assessment"
+- name: Utrecht University
+  url: https://www.uu.nl/medewerkers/pcsvermeent
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently a Junior Researcher at Philips. I conduct psychometric and neuropsychological research for IntelliSpace Cognition, a digital cognitive test battery aiming to standardize and automate the clinical workflow.
-
-On 1st January 2021 I will be starting as a PhD Candidate at Utrecht University in The Netherlands. My research will focus on cognitive adaptations in harsh and unpredictable environments. More specifically, I will investigate how people encode aspects of their environment and how this shapes and activates relevant cognitive skills.
+I am a first-year PhD Candidate at the Department of Psychology of Utrecht University, The Netherlands. I am interested in cognitive adaptations to harsh and unpredictable environments (e.g., growing up in poverty or a violent neighborhood). My research aims to uncover cognitive strengths that people develop under such circumstances. Specifically, I am interested in the ways that people encode aspects of their environment and how this shapes and activates relevant cognitive skills.
