@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:stefan.vermeent@philips.com"  
+  link: "mailto:p.c.s.vermeent@uu.nl"  
   # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
