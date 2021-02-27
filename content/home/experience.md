@@ -19,10 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "PhD Candidate" 
-  company = "Utrecht University
+  company = "Utrecht University" 
   company_url = "https://www.uu.nl/staff/PCSVermeent"
   location = "Utrecht University"
   date_start = "2020-01-01"
+  date_end = ""
 
 [[experience]]
   title = "Junior Researcher"
@@ -30,7 +31,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Eindhoven, The Netherlands"
   date_start = "2018-07-02"
-  date_end = ""
+  date_end = "2020-12-31"
   description = """
   Responsibilities include:
   
