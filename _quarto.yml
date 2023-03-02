@@ -7,13 +7,17 @@ website:
     background: primary
     search: true
     left:
-      - CV.qmd
+      - cv.qmd
       - publications.qmd
       - talks.qmd
+    right:
+      - icon: github
+        href: https://github.com/
+        aria-label: GitHub
 
 format:
   html:
-    theme: cosmo
+    theme: solar
     css: styles.css
     toc: true
 

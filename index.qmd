@@ -18,5 +18,5 @@ I focus on how growing up in adversity---such as living in poverty or being expo
 
 My research aims to integrate deficit and adaptation findings. Specifically, I use cognitive modeling techniques such as Drift Diffusion Modeling to develop a more fine-grained understanding of how specific types of adversity affect low-level cognitive processes and higher-level cognitive abilities.
 
-Aside from my substantive research focus, I hugely enjoy programming in R. 
+
 
