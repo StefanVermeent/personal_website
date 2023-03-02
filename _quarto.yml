@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Stefan Vermeent"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - CV.qmd
+      - publications.qmd
+      - talks.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
