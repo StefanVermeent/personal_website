@@ -14,6 +14,13 @@ website:
       - icon: github
         href: https://github.com/
         aria-label: GitHub
+  favicon: images/stefan.jpg
+  twitter-card: true
+  google-analytics: 
+    tracking-id: "G-00WCWLW0KH"
+    storage: none
+    anonymize-ip: true
+  
 
 format:
   html:
