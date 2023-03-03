@@ -12,6 +12,16 @@ about:
       href: https://github.com/stefanvermeent
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-00WCWLW0KH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-00WCWLW0KH');
+</script>
+
 I am Stefan Vermeent, a PhD Candidate in developmental psychology at Utrecht University and the Max Planck Institute for the Study of Crime, Security, and Law. I work under the supervision of [Willem Frankenhuis](http://www.willem.maartenfrankenhuis.nl/), [Jean-Louis van Gelder](https://www.mpg.de/13777765/crime-security-law-van-gelder), and [Ethan Young](https://www.ethan-young.com/).
 
 I focus on how growing up in adversity---such as living in poverty or being exposed to threats---shapes cognitive abilities. On the one hand, decades of research shows how adversity can have a broad negative impact on cognitive abilities, ranging across executive functioning, memory, and learning. On the other hand, more recent adaptive frameworks have uncovered several abilities that might be enhanced (or remain intact) as people adapt to the challenges that they face.
