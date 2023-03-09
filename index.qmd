@@ -10,6 +10,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/stefanvermeent
+    - icon: images/scholar.png
+      href: https://scholar.google.com/
+      text: Scholar
 ---
 
 I am Stefan Vermeent, a PhD Candidate in developmental psychology at Utrecht University and the Max Planck Institute for the Study of Crime, Security, and Law. I work under the supervision of [Willem Frankenhuis](http://www.willem.maartenfrankenhuis.nl/), [Jean-Louis van Gelder](https://www.mpg.de/13777765/crime-security-law-van-gelder), and [Ethan Young](https://www.ethan-young.com/).
