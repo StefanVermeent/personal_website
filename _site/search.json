@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "I focus on how growing up in adversity—such as living in poverty or being exposed to threats—shapes cognitive abilities. On the one hand, decades of research shows how adversity can have a broad negative impact on cognitive abilities, ranging across executive functioning, memory, and learning. On the other hand, more recent adaptive frameworks have uncovered several abilities that might be enhanced (or remain intact) as people adapt to the challenges that they face.\nMy research aims to integrate deficit and adaptation findings. Specifically, I use cognitive modeling techniques such as Drift Diffusion Modeling to develop a more fine-grained understanding of how specific types of adversity affect low-level cognitive processes and higher-level cognitive abilities."
+    "text": "I am Stefan Vermeent, a PhD Candidate in developmental psychology at Utrecht University and the Max Planck Institute for the Study of Crime, Security, and Law. I work under the supervision of Willem Frankenhuis, Jean-Louis van Gelder, and Ethan Young.\nI focus on how growing up in adversity—such as living in poverty or being exposed to threats—shapes cognitive abilities. On the one hand, decades of research shows how adversity can have a broad negative impact on cognitive abilities, ranging across executive functioning, memory, and learning. On the other hand, more recent adaptive frameworks have uncovered several abilities that might be enhanced (or remain intact) as people adapt to the challenges that they face.\nMy research aims to integrate deficit and adaptation findings. Specifically, I use cognitive modeling techniques such as Drift Diffusion Modeling to develop a more fine-grained understanding of how specific types of adversity affect low-level cognitive processes and higher-level cognitive abilities."
   },
   {
     "objectID": "about.html",
@@ -229,5 +229,33 @@
     "title": "Stefan Vermeent’s resume",
     "section": "Selected Publications and Posters",
     "text": "Selected Publications and Posters\n\nGenetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.\nPoster for 2013 International Conference of Genomics\nQingdao, China\n2014\nYu L, Chen B, Zhang Z.\n\n\nESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.\nJ Cell Sci. 2016 May 15;129(10):2075-84.\nN/A\n2016\nSheng Z, Yu L, Zhang T, Pei X, Li X, Zhang Z and Du W."
+  },
+  {
+    "objectID": "index.html#featured-publications",
+    "href": "index.html#featured-publications",
+    "title": "Welcome!",
+    "section": "Featured Publications",
+    "text": "Featured Publications\n\n<h2>Textbox 1</h2> <p>This is the first textbox.</p>"
+  },
+  {
+    "objectID": "index2.html",
+    "href": "index2.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "I am Stefan Vermeent, a PhD Candidate in developmental psychology at Utrecht University and the Max Planck Institute for the Study of Crime, Security, and Law. I work under the supervision of Willem Frankenhuis, Jean-Louis van Gelder, and Ethan Young.\nI focus on how growing up in adversity—such as living in poverty or being exposed to threats—shapes cognitive abilities. On the one hand, decades of research shows how adversity can have a broad negative impact on cognitive abilities, ranging across executive functioning, memory, and learning. On the other hand, more recent adaptive frameworks have uncovered several abilities that might be enhanced (or remain intact) as people adapt to the challenges that they face.\nMy research aims to integrate deficit and adaptation findings. Specifically, I use cognitive modeling techniques such as Drift Diffusion Modeling to develop a more fine-grained understanding of how specific types of adversity affect low-level cognitive processes and higher-level cognitive abilities."
+  },
+  {
+    "objectID": "index2.html#featured-publications",
+    "href": "index2.html#featured-publications",
+    "title": "Welcome!",
+    "section": "Featured Publications",
+    "text": "Featured Publications\n\n<h2>Textbox 1</h2> <p>This is the first textbox.</p>"
+  },
+  {
+    "objectID": "index.html#recent-projects",
+    "href": "index.html#recent-projects",
+    "title": "Welcome!",
+    "section": "Recent projects",
+    "text": "Recent projects\n\n\n ::: {.product-text} Brief description of the project…"
   }
 ]
