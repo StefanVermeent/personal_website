@@ -11,7 +11,7 @@ about:
       text: Github
       href: https://github.com/stefanvermeent
     - icon: images/scholar.png
-      href: https://scholar.google.com/
+      href: https://scholar.google.com/citations?user=0btFm-4AAAAJ&hl=nl&oi=ao
       text: Scholar
 ---
 
