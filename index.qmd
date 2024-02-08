@@ -21,10 +21,13 @@ I focus on how growing up in adversity---such as living in poverty or being expo
 
 My research aims to integrate deficit and adaptation findings. Specifically, I use cognitive modeling techniques such as Drift Diffusion Modeling to develop a more fine-grained understanding of how specific types of adversity affect low-level cognitive processes and higher-level cognitive abilities.
 
+<br>
 
 ## Recent projects
 
-<a href="https://stefanvermeent.github.io/abcd_ddm/registered_report/README.html" class="product-link">
+***Out now in Developmental Science***: We find that higher levels of household threat are associated with slower general processing speed as well as with more careful responding, but that specific executive functioning abilities are mostly intact.
+
+<a href="https://doi.org/10.1111/desc.13478" class="product-link">
 
 ::: {.product-box}
 ![Project Image Description](images/recent1.png){.img}
