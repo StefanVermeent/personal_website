@@ -29,11 +29,8 @@ My research aims to integrate deficit and adaptation findings. Specifically, I u
 
 <a href="https://doi.org/10.1111/desc.13478" class="product-link">
 
-::: {.product-box}
-![Project Image Description](images/recent1.png){.img}
-::: {.product-text}
-Brief description of the project...
+::: product-box
+![Project Image Description](images/recent1.png){.img} ::: {.product-text} Brief description of the project...
 :::
-
 
 </a>
