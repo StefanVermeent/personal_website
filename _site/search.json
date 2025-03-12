@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "talks.html#issbd-2024-june-symposium-unveiling-strengths-in-young-people-who-grow-up-in-challenging-conditions",
+    "href": "talks.html#issbd-2024-june-symposium-unveiling-strengths-in-young-people-who-grow-up-in-challenging-conditions",
+    "title": "Selected talks",
+    "section": "ISSBD 2024 (June): Symposium ‘Unveiling Strengths In Young People Who Grow Up In Challenging Conditions’",
+    "text": "ISSBD 2024 (June): Symposium ‘Unveiling Strengths In Young People Who Grow Up In Challenging Conditions’"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "I am Stefan Vermeent, a PhD Candidate in developmental psychology at Utrecht University and the Max Planck Institute for the Study of Crime, Security, and Law. I work under the supervision of Willem Frankenhuis, Jean-Louis van Gelder, and Ethan Young.\nI focus on how growing up in adversity—such as living in poverty or being exposed to threats—shapes cognitive abilities. On the one hand, decades of research shows how adversity can have a broad negative impact on cognitive abilities, ranging across executive functioning, memory, and learning. On the other hand, more recent adaptive frameworks have uncovered several abilities that might be enhanced (or remain intact) as people adapt to the challenges that they face.\nMy research aims to integrate deficit and adaptation findings. Specifically, I use cognitive modeling techniques such as Drift Diffusion Modeling to develop a more fine-grained understanding of how specific types of adversity affect low-level cognitive processes and higher-level cognitive abilities."
+    "text": "I am Stefan Vermeent, a postdoctoral researcher at the Institute for Biodiversity and Ecosystem Dynamics of the University of Amsterdam (the Netherlands). I am a member of the DEEP lab.\nI focus on how growing up in adversity—such as living in poverty or being exposed to threats—shapes cognitive abilities. On the one hand, decades of research shows how adversity can have a broad negative impact on cognitive abilities, ranging across executive functioning, memory, and learning. On the other hand, more recent adaptive frameworks have uncovered several abilities that might be enhanced (or remain intact) as people adapt to the challenges that they face.\nMy research aims to integrate deficit and adaptation findings. Specifically, I use cognitive modeling techniques such as Drift Diffusion Modeling to develop a more fine-grained understanding of how specific types of adversity shape different cognitive processes."
   },
   {
     "objectID": "index.html#recent-projects",
@@ -14,31 +21,10 @@
     "text": "Recent projects\nOut now in Developmental Science: We find that higher levels of household threat are associated with slower general processing speed as well as with more careful responding, but that specific executive functioning abilities are mostly intact.\n\n\n ::: {.product-text} Brief description of the project…"
   },
   {
-    "objectID": "index2.html",
-    "href": "index2.html",
-    "title": "Welcome!",
-    "section": "",
-    "text": "I am Stefan Vermeent, a PhD Candidate in developmental psychology at Utrecht University and the Max Planck Institute for the Study of Crime, Security, and Law. I work under the supervision of Willem Frankenhuis, Jean-Louis van Gelder, and Ethan Young.\nI focus on how growing up in adversity—such as living in poverty or being exposed to threats—shapes cognitive abilities. On the one hand, decades of research shows how adversity can have a broad negative impact on cognitive abilities, ranging across executive functioning, memory, and learning. On the other hand, more recent adaptive frameworks have uncovered several abilities that might be enhanced (or remain intact) as people adapt to the challenges that they face.\nMy research aims to integrate deficit and adaptation findings. Specifically, I use cognitive modeling techniques such as Drift Diffusion Modeling to develop a more fine-grained understanding of how specific types of adversity affect low-level cognitive processes and higher-level cognitive abilities."
-  },
-  {
-    "objectID": "index2.html#featured-publications",
-    "href": "index2.html#featured-publications",
-    "title": "Welcome!",
-    "section": "Featured Publications",
-    "text": "Featured Publications\n\n<h2>Textbox 1</h2> <p>This is the first textbox.</p>"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Journal articles\nVermeent, S., Young, E.S., van Gelder, J.-L., & Frankenhuis, W.E. (2024). Childhood adversity is not associated with lowered inhibition, but slower perceptual processing: A Drift Diffusion Model analysis. Cognitive Development, 71, 101479.     \n\nVermeent, S., Schubert, A.-L., DeJoseph, M.L., Denissen, J.A.A., van Gelder, J.-L., & Frankenhuis, W.E. (accepted pending data analysis). Working memory performance in adverse environments: Enhanced, impaired, or intact?. Peer Community In Registered Reports.     \n\nVermeent, S., Young, E.S., DeJoseph, M.L., Schubert, A.L., & Frankenhuis, W.E. (2024). Cognitive deficits and enhancements in youth from adverse conditions: An integrative assessment using Drift Diffusion Modeling in the ABCD study. Developmental Science.     \n\nKlaming, L., Spaltman, M., Vermeent, S., van Elswijk, G., Miller, J., & Schmand, B. (2024). Test-retest reliability and reliable change index of the Philips IntelliSpace Cognition digital test battery. The Clinical Neuropsychologist.    \n\nVermeent, S., Spaltman, M., van Elswijk, G., Miller, J.B., & Schmand, B.A. (2021). Philips IntelliSpace Cognition digital test battery: Equivalence and measurement invariance compared to traditional analog test versions. The Clinical Neuropsychologist.    \n\nVermeent, S., Dotsch, R., Schmand, B., Klaming, L., Miller, J.B., & van Elswijk, G. (2020). Evidence of validity for a newly developed digital cognitive test battery. Frontiers in Psychology: Neuropsychology.    \n\nKeesman, M., Papies, E.K., Vermeent, S., Aarts, H., & Häfner, M. (2016). Consumption simulations induce salivation to food cues. PLoS ONE.    \n\n\nBook chapters\nCusters, R., Vermeent, S., & Aarts, H. (2019). Does goal pursuit require conscious awareness? In R.M. Ryan (Ed.), Oxford Handbook of Motivation. New York: Oxford University Press, Inc."
-  },
-  {
-    "objectID": "talks.html#issbd-2024-june-symposium-unveiling-strengths-in-young-people-who-grow-up-in-challenging-conditions",
-    "href": "talks.html#issbd-2024-june-symposium-unveiling-strengths-in-young-people-who-grow-up-in-challenging-conditions",
-    "title": "Selected talks",
-    "section": "ISSBD 2024 (June): Symposium ‘Unveiling Strengths In Young People Who Grow Up In Challenging Conditions’",
-    "text": "ISSBD 2024 (June): Symposium ‘Unveiling Strengths In Young People Who Grow Up In Challenging Conditions’"
+    "text": "Journal articles\nVermeent, S., Schubert, A.-L., DeJoseph, M.L., Denissen, J.A.A., van Gelder, J.-L., & Frankenhuis, W.E. (2025). Inconclusive evidence for associations between adverse experiences in adulthood and working memory performance. Royal Society Open Science, 12(1), 241837.     \n\nVermeent, S., Young, E.S., van Gelder, J.-L., & Frankenhuis, W.E. (2024). Childhood adversity is not associated with lowered inhibition, but slower perceptual processing: A Drift Diffusion Model analysis. Cognitive Development, 71, 101479.     \n\nVermeent, S., Young, E.S., DeJoseph, M.L., Schubert, A.L., & Frankenhuis, W.E. (2024). Cognitive deficits and enhancements in youth from adverse conditions: An integrative assessment using Drift Diffusion Modeling in the ABCD study. Developmental Science.     \n\nKlaming, L., Spaltman, M., Vermeent, S., van Elswijk, G., Miller, J., & Schmand, B. (2024). Test-retest reliability and reliable change index of the Philips IntelliSpace Cognition digital test battery. The Clinical Neuropsychologist.    \n\nVermeent, S., Spaltman, M., van Elswijk, G., Miller, J.B., & Schmand, B.A. (2021). Philips IntelliSpace Cognition digital test battery: Equivalence and measurement invariance compared to traditional analog test versions. The Clinical Neuropsychologist.    \n\nVermeent, S., Dotsch, R., Schmand, B., Klaming, L., Miller, J.B., & van Elswijk, G. (2020). Evidence of validity for a newly developed digital cognitive test battery. Frontiers in Psychology: Neuropsychology.    \n\nKeesman, M., Papies, E.K., Vermeent, S., Aarts, H., & Häfner, M. (2016). Consumption simulations induce salivation to food cues. PLoS ONE.    \n\n\nIn preparation / preprints\nVermeent, S., Young, E.S., van Gelder, J.L., & Frankenhuis, W.E. (2024). Childhood adversity is not associated with lowered inhibition, but slower perceptual processing: A Drift Diffusion Model analysis. Cognitive development, 71, 101479.    \n\n\nBook chapters\nCusters, R., Vermeent, S., & Aarts, H. (2019). Does goal pursuit require conscious awareness? In R.M. Ryan (Ed.), Oxford Handbook of Motivation. New York: Oxford University Press, Inc."
   }
 ]

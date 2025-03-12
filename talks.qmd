@@ -12,7 +12,6 @@ title: "Selected talks"
 
 </a>
 
-
 ## ISSBD 2024 (June): Symposium 'Unveiling Strengths In Young People Who Grow Up In Challenging Conditions'
 
 <a href="slides/ISSBD2024_vermeent.pdf" class="talk-link">
@@ -22,5 +21,3 @@ title: "Selected talks"
 :::
 
 </a>
-
-
