@@ -7,7 +7,7 @@ website:
     background: primary
     search: true
     left:
-      - cv.qmd
+      - CV.qmd
       - publications.qmd
       - talks.qmd
     right:

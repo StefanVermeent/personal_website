@@ -1,7 +1,0 @@
----
-title: "CV"
----
-
-```{=html}
-<iframe width="900" height="1000" src="cv/cv_stefan_vermeent.pdf" title="CV"></iframe>
-```
