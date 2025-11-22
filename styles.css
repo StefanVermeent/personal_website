@@ -1,23 +1,33 @@
-/* css styles */
+/* Global clean background + typography */
+body {
+  background-color: #fafafa;
+  color: #333333;
+  font-family: "Inter", "Lato", "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* --- News section --- */
 
 .news {
-  margin-top: 50px;
+  margin-top: 40px;
 }
 
 .news-item {
-  background-color: #f2f2f2;
-  border-radius: 5px;
+  background-color: #ffffff;
+  border: 1px solid #e2e2e2;
+  border-radius: 6px;
   padding: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 24px;
 }
 
 .news-item h3 {
-  font-size: 24px;
-  margin-bottom: 10px;
+  font-size: 22px;
+  margin-bottom: 8px;
+  color: #0f1b40; /* professional navy */
 }
 
 .news-item p {
-  font-size: 18px;
+  font-size: 17px;
   line-height: 1.5;
 }
 
@@ -28,71 +38,72 @@
   }
 }
 
+/* --- Product boxes (research / projects) --- */
+
 .product-box {
     position: relative;
     display: inline-block;
-    width: 400px;
-    height: 400px;
+    width: 380px;
+    height: 380px;
     overflow: hidden;
     margin: 15px;
-    border-radius: 7px;
-    transition: transform 0.3s, box-shadow 0.3s;
-    background: #f0f0f0;
+    border-radius: 8px;
+    background: #ffffff;
+    border: 1px solid #e5e5e5;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
     cursor: pointer;
+}
+
+.product-box:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 14px rgba(0,0,0,0.08);
 }
 
 .product-box img {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    transition: transform 0.3s;
+    transition: opacity 0.2s ease;
 }
 
-.product-box:hover {
-    transform: scale(1.05);
-}
-
+/* Overlay text */
 .product-text {
     position: absolute;
     bottom: 0;
     left: 0;
     width: 100%;
-    padding: 10px;
-    background-color: #000000;
+    padding: 10px 12px;
+    background: rgba(0, 0, 0, 0.65);
+    color: #ffffff;
+    font-size: 16px;
     text-align: center;
-    z-index: 10;
-    transition: opacity 0.3s ease;
-    opacity: 1; /* Initially hide the text */
-    pointer-events: none; /* Allow clicking through the text */
+    opacity: 0;
+    transition: opacity 0.25s ease;
 }
 
 .product-box:hover .product-text {
-    opacity: 1; /* Show the text on hover */
+    opacity: 1;
 }
 
+/* --- Talk boxes --- */
 
 .talk-box {
     position: relative;
     display: inline-block;
-    width: 400px;
-    height: 225px;
-    overflow: hidden;
+    width: 380px;
+    height: 215px;
     margin: 15px;
-    border-radius: 7px;
-    transition: transform 0.3s, box-shadow 0.3s;
-    background: #f0f0f0;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #ffffff;
+    border: 1px solid #e5e5e5;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
     cursor: pointer;
 }
 
-.talk-box img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    transition: transform 0.3s;
-}
-
 .talk-box:hover {
-    transform: scale(1.05);
+    transform: scale(1.02);
+    box-shadow: 0 4px 14px rgba(0,0,0,0.08);
 }
 
 .talk-text {
@@ -100,15 +111,16 @@
     bottom: 0;
     left: 0;
     width: 100%;
-    padding: 10px;
-    background-color: #000000;
+    padding: 10px 12px;
+    background: rgba(0, 0, 0, 0.65);
+    color: #ffffff;
     text-align: center;
-    z-index: 10;
-    transition: opacity 0.3s ease;
-    opacity: 1; /* Initially hide the text */
-    pointer-events: none; /* Allow clicking through the text */
+    font-size: 15px;
+    opacity: 0;
+    transition: opacity 0.25s ease;
 }
 
-.talk-box:hover .product-text {
-    opacity: 1; /* Show the text on hover */
+.talk-box:hover .talk-text {
+    opacity: 1;
 }
+

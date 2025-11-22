@@ -17,22 +17,10 @@ about:
 
 I am Stefan Vermeent, a postdoctoral researcher at the Institute for Biodiversity and Ecosystem Dynamics of the University of Amsterdam (the Netherlands). I am a member of the [DEEP lab](https://www.willemfrankenhuis.com/deep-lab).
 
-I focus on how growing up in adversity---such as living in poverty or being exposed to threats---shapes cognitive abilities. On the one hand, decades of research shows how adversity can have a broad negative impact on cognitive abilities, ranging across executive functioning, memory, and learning. 
-On the other hand, more recent adaptive frameworks have uncovered several abilities that might be enhanced (or remain intact) as people adapt to the challenges that they face.
+I focus on how growing up in adversity---such as living in poverty or being exposed to threats---shapes cognitive abilities. On the one hand, decades of research shows how adversity can have a broad negative impact on cognitive abilities, ranging across executive functioning, memory, and learning. On the other hand, more recent adaptive frameworks have uncovered several abilities that might be enhanced (or remain intact) as people adapt to the challenges that they face.
 
-My research aims to integrate deficit and adaptation findings. 
-Specifically, I use cognitive modeling techniques such as Drift Diffusion Modeling to develop a more fine-grained understanding of how specific types of adversity shape different cognitive processes.
+My research aims to integrate deficit and adaptation findings. Specifically, I use cognitive modeling techniques such as Drift Diffusion Modeling to develop a more fine-grained understanding of how specific types of adversity shape different cognitive processes.
 
 <br>
 
-## Recent projects
 
-***Out now in Developmental Science***: We find that higher levels of household threat are associated with slower general processing speed as well as with more careful responding, but that specific executive functioning abilities are mostly intact.
-
-<a href="https://doi.org/10.1111/desc.13478" class="product-link">
-
-::: product-box
-![Project Image Description](images/recent1.png){.img} ::: {.product-text} Brief description of the project...
-:::
-
-</a>
