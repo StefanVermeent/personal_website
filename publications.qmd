@@ -3,7 +3,13 @@ title: "Publications"
 format: html
 ---
 
-Below is a selection of my recent publications. For an overview of all my publications, see my [Google Scholar page](https://scholar.google.com/citations?user=0btFm-4AAAAJ&hl) or my [CV](https://stefan-vermeent.nl/cv)
+Below is a selection of my recent publications. For an overview of all my publications, see my [Google Scholar page](https://scholar.google.com/citations?user=0btFm-4AAAAJ&hl) or my [CV](https://stefan-vermeent.nl/cv).
+<br>
+<br>
+Feel free to send me a message if you are unable to access any of my publications.
+<br>
+<br>
+<br>
 
 ```{r echo = FALSE, message=FALSE, results='asis', warning=FALSE}
 source("fetch_publications.R")
